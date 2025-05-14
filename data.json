@@ -20,48 +20,55 @@
     ],
     "songs": [
         {
-            "song": "Everything Lit",
-            "artist": "Sheff G",
+            "song": "R.I.C.O.",
+            "artist": "Meek Mill & Drake",
             "url": "https://youtu.be/9JBaUcYOJ48?si=5Fs3HVizbvEggHpN"
         }
     ],
     "changelog": {
         "changes": [
             {
-                "description": "New gang turf system",
-                "type": "add",
+                "description": "New Custom gang turf system built by vortex for vortex",
+                "type": "NEW",
                 "title": "VORTEX GANGS 2.5"
+            },
+             {
+                "description": "Big optimization pass on all clothing to help with performance and reduce overall city lag. If something from your imports is just make a reimbursement ticket and reupload your file\n",
+                "type": "NEW",
+                "title": "CLOTHING UPDATE 2.5"
             },
             {
                 "description": "The new MDT system introduces a built-in dispatch system, making communication and coordination more consistent and streamlined across departments. Officers can now access real-time call information, unit statuses, and GPS tracking directly through the MDT for faster response times.\n\nThis update also brings new tactical gear into the field, including helmet-mounted flashlights, night vision goggles for nighttime operations, and a compact under-door camera for safe room clearing and reconnaissance. Additionally, a fresh fleet of new police vehicles has been added, each equipped with upgraded performance and advanced technology to support high-speed pursuits and tactical scenarios.\n\nA new evidence system has also been introduced, allowing officers to collect bullet casings, lift fingerprints, and scan entire crime scenes for forensic analysis. Collected evidence can then be reviewed and processed in the forensic lab, giving officers detailed insights and helping build stronger cases.",
-                "type": "add",
+                "type": "NEW",
                 "title": "POLICE UPDATE 2.5"
 
-            },
-            {
-                "description": "Big optimization pass on all clothing to help with performance and reduce overall city lag. If something from your imports is just make a reimbursement ticket and reupload your file\n",
-                "type": "add",
-                "title": "CLOTHING UPDATE 2.5"
             }
+
            ],
-        "date": "05/20/2025",
+        "date": "05/17/2025",
         "version": "2.5.0"
     },
     "players": [
         {
-            "description": "This month’s Criminal of the Month stood out for their immersive and dynamic roleplay, bringing depth, creativity, and realism to every criminal interaction. Whether plotting intricate heists or navigating tense underworld alliances, their storytelling elevated the entire RP experience for everyone involved.",
+            "description": "",
             "name": "placholder",
             "image": "https://r2.fivemanage.com/image/JuF8vL07NDVR.png",
-            "category": "CRIMINALS"
+            "category": "Top Gang"
         },
         {
-            "description": "Congratulations to Tamiki Marquis, our Police RPer of the Month, known for her unwavering consistency, calm under pressure, and outstanding leadership. Her transition from LSPD to BCSO marked a turning point, helping BCSO hit 100 for the first time ever alongsize another great RPer by the name of Kon Madono. Tamiki never asks for recognition, but her impact speaks volumes this spotlight is well deserved.",
+            "description": "",
             "name": "PlaceHolder",
             "image": "https://r2.fivemanage.com/image/GtbLHP5WflCC.png",
-            "category": "POLICE DEPARTMENT"
+            "category": "CIVILIAN"
         },
         {
-            "description": "EMS Employee of the Month, celebrated for their exceptional roleplay, unwavering commitment, and ability to make every medical scene memorable. As a key figure in the medical field, their quick thinking and deep character development have set a new bar for EMS operations and patient care in the RP world.",
+            "description": "",
+            "name": "PlaceHolder",
+            "image": "https://r2.fivemanage.com/image/GtbLHP5WflCC.png",
+            "category": "POLICE Officer"
+        },
+        {
+            "description": "",
             "name": "Maximo",
             "image": "https://r2.fivemanage.com/image/nyXJyaWCgLD5.png",
             "category": "EMS Employee"
