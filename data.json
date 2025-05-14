@@ -1,54 +1,28 @@
 {
     "backgrounds": [
-        "https://r2.fivemanage.com/image/yAwpJMAGtBkz.png",
-        "https://r2.fivemanage.com/image/7LPzFc27PhaR.png",
-        "https://r2.fivemanage.com/image/PILQYwKIQ0Mo.png",
-        "https://r2.fivemanage.com/image/G74WwgbLtaIj.png",
-        "https://r2.fivemanage.com/image/DZ1XVGcs7ucp.png",
-        "https://r2.fivemanage.com/image/hEpGmwGVSrBS.png",
-        "https://r2.fivemanage.com/image/YMuAwtAvYTVA.png",
-        "https://r2.fivemanage.com/image/loARyLE1QBip.png",
-        "https://r2.fivemanage.com/image/kPbMHeJjqD6Y.png",
-        "https://r2.fivemanage.com/image/0BKmGka16HOx.PNG",
-        "https://r2.fivemanage.com/image/CaSTyqctyqaQ.png",
-        "https://r2.fivemanage.com/image/pv1AYinFq2fe.png",
-        "https://r2.fivemanage.com/image/FkPJd4QYv5lz.png",
-        "https://r2.fivemanage.com/image/9EvqKFIKjbr4.png",
-        "https://r2.fivemanage.com/image/3wS5ajTi1ISw.png",
-        "https://r2.fivemanage.com/image/JnDZKcNhBZNC.png",
-        "https://r2.fivemanage.com/image/BScH3PZyLoiS.png",
-        "https://r2.fivemanage.com/image/PfjDLZeuv8rK.png",
-        "https://r2.fivemanage.com/image/fiKF3fahKlq8.png",
-        "https://r2.fivemanage.com/image/nq2K0dN3HdrE.png",
-        "https://r2.fivemanage.com/image/p5jErpKvRdly.png",
-        "https://r2.fivemanage.com/image/SKW1WHfIEQjP.png",
-        "https://r2.fivemanage.com/image/sTMDz80XO481.png",
-        "https://r2.fivemanage.com/image/yW9NrGniSVMi.png",
-        "https://r2.fivemanage.com/image/s8c2rPBLufRz.png",
-        "https://r2.fivemanage.com/image/mWl194FGiE2I.png",
-        "https://r2.fivemanage.com/image/9LyU0nGbmepn.png",
-        "https://r2.fivemanage.com/image/lxpbW5UAbbRm.png",
-        "https://r2.fivemanage.com/image/Nisw2Hkq8kTV.png",
-        "https://r2.fivemanage.com/image/zOWXc3djy1ee.png",
-        "https://r2.fivemanage.com/image/Nxr3c3eEFIPp.png",
-        "https://r2.fivemanage.com/image/yGjVJFmps5bP.webp",
-        "https://r2.fivemanage.com/image/qZiPBfi04IZ3.png",
-        "https://r2.fivemanage.com/image/9YWvQu9VzkTI.png",
-        "https://r2.fivemanage.com/image/S7P04xEAkww8.png",
-        "https://r2.fivemanage.com/image/webrE83VfDMx.png",
-        "https://r2.fivemanage.com/image/ViunsPwRCtX0.png",
-        "https://r2.fivemanage.com/image/eqq1WxHmutcq.png",
-        "https://r2.fivemanage.com/image/5sr2vvCZY77I.png",
-        "https://r2.fivemanage.com/image/Jo6YyTYk4A3D.png",
-        "https://r2.fivemanage.com/image/1hBuN7ArrFzq.png",
-        "https://r2.fivemanage.com/image/5ZQs7hR6t6L2.png",
-        "https://r2.fivemanage.com/image/LQF3BjXDdM9F.png"
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/1.png",
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/2.png",
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/3.png",
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/4.png",
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/5.png",
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/6.png",
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/7.png",
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/8.png",
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/9.png",
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/10.png",
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/11.png",
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/12.png",
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/13.png",
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/14.png",
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/15.png",
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/16.png"
+      
     ],
     "songs": [
         {
-            "song": "WORK",
-            "artist": "Yeat",
-            "url": "https://www.youtube.com/watch?v=4xtwjLqdaj0"
+            "song": "Everything Lit",
+            "artist": "Sheff G",
+            "url": "https://youtu.be/9JBaUcYOJ48?si=5Fs3HVizbvEggHpN"
         }
     ],
     "changelog": {
@@ -61,32 +35,32 @@
             {
                 "description": "Complete all new gang system custom built from scratch just for VORTEX roleplay.COMING SOON!",
                 "type": "add",
-                "title": "VORTEX GANGS 4.0"
+                "title": "VORTEX GANGS 2.0"
             },
             {
                 "description": "The updated MDT system enhances policing with a new suspect interaction system for efficient detainment, questioning, and searches. Dynamic evidence collection improves forensic investigations, while the revamped jail and booking system streamlines arrests with mugshots and cell assignments.\n\nPursuit tools now include GPS tracking, roadblocks, and enhanced mechanics. K9 units assist with drug detection and suspect tracking. Officers benefit from customizable loadouts, tactical gear, and deployable equipment for high-risk operations.\n\nDUI testing is now automated with breathalyzers and field sobriety tests. Improved bodycam and dashcam systems ensure real-time footage logging, while police checkpoints and radar systems enhance traffic enforcement.",
                 "type": "add",
-                "title": "POLICE UPDATE 3.0"
+                "title": "POLICE UPDATE 2.0"
             },
             {
                 "description": "VORTEX RP is proud to release POLICE 3.0, a major overhaul introducing a brand-new MDT system and expanded police functionalities to enhance law enforcement operations across the city.\n<br>\n<strong>Modern UI & Faster Performance</strong> – Sleek, efficient, and responsive.<br>\n<strong>Comprehensive Criminal Database</strong> – Search citizens, vehicles, and incidents seamlessly.<br>\n<strong>Improved Reports & Case Management</strong> – Officers can create, edit, and review detailed reports in real time.<br>\n<strong>Advanced Warrant System</strong> – Issue, track, and execute warrants directly from the MDT.<br>\n<strong>Integrated Dispatch & GPS Tracking</strong> – Officers can mark themselves on duty, request backup, and navigate active call locations efficiently.<br>\n<strong>Easier Citation & Ticketing System</strong> – Quick issuance of citations with detailed offense logs.<br>\n<strong>Live Call Logs & Incident Reports</strong> – Dispatchers and officers can view real-time incidents and respond accordingly.<br>\n<strong>Fingerprint & Mugshot Integration</strong> – Improved identification tools for accurate records.<br>\n",
                 "type": "add",
-                "title": "🚔 POLICE 3.0 OUT NOW – NEW MDT & POLICE FUNCTIONS! 🚔"
+                "title": "🚔 POLICE 2.0 OUT NOW – NEW MDT & POLICE FUNCTIONS! 🚔"
             },
             {
                 "description": "A major optimization overhaul for all clothing! This ensure a smoother experience, particularly in reducing city lag. If you've noticed any of your imports missing, don't worry. Simply Make a reimbursement ticket and resubmit your file as it may have been removed for optimization and performance purposes.\n<br>\n<strong>Police Department:</strong> Received a substantial U-Haul of new clothing.<br>\n<strong>EMS:</strong> Also received an extensive package, including vests and more.<br>\n<strong>Most clothing import tickets</strong> – Will soon be closed. If you've recently made a ticket, expect it to be imported shortly.<br>\n<strong>For any inquiries or concerns</strong> – Make a general or a clothing ticket.<br>\n<strong>All of your saved outfits have been deleted</strong> – Because they were probably extremely messed up.<br>\n",
                 "type": "add",
-                "title": "CLOTHING UPDATE 3.0"
+                "title": "CLOTHING UPDATE 2.0"
             },
             {
                 "description": "<strong>🔥 What's New in 4.0:</strong><br>\n<strong>VORTEX Gangs 4.0</strong> — Fully reimagined gang system, including custom ranks, access control, black markets, and more. Learn more about the VORTEX Gangs here: ⁠🔧・updates⁠<br>\n<strong>All-New Custom UI</strong> — A sleek new interface across your entire experience. From inventory to menus, everything has been upgraded.<br>\n<strong>New Police MDT</strong> — Built from the ground up for speed, clarity, and real-time functionality.<br>\n<strong>Clothing Overhaul</strong> — Every piece of clothing has been pushed and refreshed. Time to step out in style.<br>\n<strong>Organ Harvesting</strong> — RP to find out.<br>\n\n<strong>🔜 Coming in 4.1:</strong><br>\n<strong>Housing Update</strong> — A brand new system that’s going to change how you live, decorate, and claim your turf.<br>\n<strong>PD Overhaul</strong> — Rebuilding PD and all functions from the ground up.<br>\n<strong>Heists</strong> — Addition of the casino heist.<br>\n",
                 "type": "add",
-                "title": "VORTEX RP 4.0 NOW AVAILABLE"
+                "title": "VORTEX RP 2.5 NOW AVAILABLE"
             },
             {
                 "description": "<strong>🔹 HOW IT WORKS</strong><br>\n<strong>Build Heat:</strong> Criminal activity raises a zone’s heat level over time.<br>\n<strong>100% Heat = PvP Enabled:</strong> Gangs can fight for control.<br>\n<strong>Win the Zone = Rewards:</strong> Control grants drug labs, black markets & more.<br><br>\n\n<strong>🚨 CRIMINAL ACTIVITIES THAT BUILD HEAT 🚨</strong><br>\n✔ Selling drugs<br>\n✔ Robbing NPCs & players<br>\n✔ Bank & store heists<br>\n✔ Graffiti & tagging<br>\n✔ Fights & killings<br>\n<strong>💀 Be careful:</strong> More crime = faster contesting.<br><br>\n\n<strong>🏆 GUILDS, REPUTATION & XP</strong><br>\nGuilds control black markets & underground ops.<br>\n<strong>Guild XP System:</strong> Earn XP to unlock rewards.<br>\n<strong>Bounty System:</strong> Kill in zones → get blacklisted or hunted.<br>\n<strong>Guild Shops:</strong> Buy exclusive resources.<br><br>\n\n<strong>🤝 ALLIANCES & BETRAYALS</strong><br>\nAllies share perks like safehouses & labs.<br>\n<strong>Betrayals:</strong> Backstabbing doubles zone heat.<br><br>\n\n<strong>🔫 BALANCED PVP & WAR SCHEDULING</strong><br>\nPvP only activates at max heat.<br>\nAdmins control war durations (minutes to weeks).<br>\n<strong>Example:</strong> 1 week of buildup → 3-day war.<br><br>\n\n<strong>🏠 SAFEHOUSES & MEETINGS</strong><br>\n✅ Storage<br>\n✅ Garages & wardrobes<br>\n✅ Meeting rooms<br>\n<strong>Meetings:</strong> Outcomes can raise or lower heat.<br>\n",
                 "type": "add",
-                "title": "VORTEX GANGS 4.0 OUT NOW"
+                "title": "VORTEX GANGS 2.0 OUT NOW"
             },
             {
                 "description": "<strong>Server Crash Fix:</strong> Resolved issue causing server hangs/crashes due to optimization problems with the new multicharacter system.<br>\n<strong>Temporary Rollback:</strong> Old multicharacter has been re-enabled while we build a custom, optimized version from scratch.<br>\n<strong>General Optimizations:</strong> Additional performance improvements implemented.<br>",
